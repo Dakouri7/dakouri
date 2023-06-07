@@ -1,0 +1,7 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        # the controller value has the format 'controller_class::method_name'
+        namespace: App\Controller
+    type: attribute
+
